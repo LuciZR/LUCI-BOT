@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://i.imgur.com/qeZ1f50.jpeg">
-    <img alt="LuciZR"  src="[https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg](https://i.imgur.com/4J1WUUP.mp4)">
+    <img alt="LuciZR"  src="[https://i.imgur.com/4J1WUUP.mp4]">
     <h1 align="center">GURU-BOT 2.O</h1>
   </a>
 </p>
