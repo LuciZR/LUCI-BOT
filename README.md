@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://i.imgur.com/qeZ1f50.jpeg">
-    <img alt="LuciZR" height="300" src="[https://i.imgur.com/1cu575l.jpeg]">
-    <h1 align="center">LUCI-BOT 1.0.O</h1>
+    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <h1 align="center">GURU-BOT 2.O</h1>
   </a>
 </p>
 <p align="center">
